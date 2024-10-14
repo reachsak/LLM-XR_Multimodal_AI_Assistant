@@ -1,7 +1,5 @@
 # LLM-Based AI Agents and Extended Reality (XR) Applications for Smart Building Control
 
-**Date:** January 2024 – Present  
-**Institution:** Virginia Polytechnic Institute and State University
 
 ## Demo
 
