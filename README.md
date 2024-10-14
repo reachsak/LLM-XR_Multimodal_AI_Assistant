@@ -15,6 +15,9 @@
 
 This project focuses on developing LLM-based AI agents and extended reality (XR) applications to enhance smart building control. Leveraging open-source models and Unity 3D, the project integrates the LLaVA vision language model, as well as open-source Text-to-Speech (TTS) and Speech-to-Text (STT) models. The application is designed for the Microsoft HoloLens 2, featuring AI-powered voice chat and image understanding capabilities.
 
+## Manuscript
+* Under preparation...*
+
 ### Key Features
 
 - **LLM-Based AI Agents:** Utilizes advanced language models for intelligent interaction and control.
