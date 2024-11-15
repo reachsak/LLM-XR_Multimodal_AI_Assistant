@@ -1,7 +1,7 @@
-# LLM-Based AI Agents and Extended Reality (XR) Applications for Smart Building Control
+# Multimodal AI Agents and Extended Reality (XR) Applications
 
 
-## Demo
+## Video Demo
 
 ### AI Voice Chat and Image Understanding
 
