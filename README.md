@@ -34,10 +34,6 @@ Under preparation...
 - LLaVA vision language model
 - Open-source Text-to-Speech (TTS) and Speech-to-Text (STT) models
 
-### Installation
-
-*Coming soon...*
-
 ## Contributing
 
 Contributions are welcome! Please read the `CONTRIBUTING.md` file for details on how to contribute to this project.
