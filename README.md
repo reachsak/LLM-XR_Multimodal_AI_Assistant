@@ -1,4 +1,4 @@
-# Multimodal AI Agents and Extended Reality (XR) Applications
+# Multimodal AI Assistant and Extended Reality (XR) Applications
 
 
 ## Video Demo
