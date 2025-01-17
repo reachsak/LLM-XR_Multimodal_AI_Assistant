@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GroqSharp</id>
+    <version>1.1.2</version>
+    <title>GroqSharp</title>
+    <authors>Sarel.Esterhuizen</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>Logo.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/Sarel-Esterhuizen/GroqSharp</projectUrl>
+    <description>GroqSharp is a C# client library that makes it easy to interact with GroqCloud. It's designed to provide a simple and flexible interface, allowing you to seamlessly integrate the Groq service into your C# applications.</description>
+    <releaseNotes>- Add POCO mapping for structured responses</releaseNotes>
+    <copyright>© 2024 Sarel Esterhuizen</copyright>
+    <tags>C# Groq API Client Chatbot Language Models GroqSharp Llama</tags>
+    <repository type="git" url="https://github.com/Sarel-Esterhuizen/GroqSharp" commit="fa4a496eb2b5e0cb11a13b6d8e5939f51ebc589f" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+</package>

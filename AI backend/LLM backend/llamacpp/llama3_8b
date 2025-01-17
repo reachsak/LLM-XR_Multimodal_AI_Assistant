@@ -1,0 +1,11 @@
+FROM ./weight/Meta-Llama-3-8B-Instruct.Q8_0.gguf
+TEMPLATE """{{ if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{ end }}{{ if .Prompt }}<|im_start|>user
+{{ .Prompt }}<|im_end|>
+{{ end }}<|im_start|>assistant
+"""
+
+SYSTEM """"""
+PARAMETER stop <|im_start|>
+PARAMETER stop <|im_end|>
