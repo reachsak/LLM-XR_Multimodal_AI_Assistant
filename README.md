@@ -1,4 +1,4 @@
-# Multimodal AI Agents and Extended Reality (XR) Applications
+# Multimodal AI Assistant and Extended Reality (XR) Applications
 
 
 ## Video Demo
@@ -33,10 +33,6 @@ Under preparation...
 - Unity 3D
 - LLaVA vision language model
 - Open-source Text-to-Speech (TTS) and Speech-to-Text (STT) models
-
-### Installation
-
-*Coming soon...*
 
 ## Contributing
 
