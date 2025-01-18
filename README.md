@@ -2,7 +2,8 @@
 
 
 ## Video Demo
-
+## Summary
+<img src="/fig1.png" style="float: left; margin-right: 20px; max-width: 200px;">
 ### AI Voice Chat and Image Understanding
 
 [![Watch the demo video 1](https://img.youtube.com/vi/2esRfU4-7II/0.jpg)](https://www.youtube.com/watch?v=2esRfU4-7II)  
