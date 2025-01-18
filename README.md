@@ -2,15 +2,10 @@
 
 ## Project Description
 
-This project explores the integration of Vision Language Model (VLM) Large Language Model (LLM) and extended reality (XR) to create Multimodal AI assistant with voice chat,  Image understanding and smart building control in immersive environments. This project integrates large language models (LLMs), digital twins, and extended reality platforms, aiming to create an innovative solution for remote facility management and urban infrastructure monitoring.
+This project explores the integration of Vision Language Model (VLM) Large Language Model (LLM) and extended reality (XR) to create Multimodal AI assistant with voice chat,  Image understanding and smart building control in immersive environments. This project integrates large language models (LLMs), digital twins, and extended reality platforms, aiming to create an innovative solution for remote facility management and urban infrastructure monitoring.This system uses thee LLaVA vision language model to provide image understanding capabilities, allowing the AI to interpret and respond to visual data.
 
 The developed system deploys an LLM-based AI assistant and a digital building twin into an XR environment using Microsoft HoloLens 2. Users can interact with the BIM models, communicate with the Multimodal AI chatbot. Users can also interact with the AI assistant through voice commands to control building facilities. This setup enhances the ability of facility managers and occupants to interact with and control smart buildings remotely. The approach also holds potential for scaling to multiple buildings or urban infrastructure, enabling immersive, real-time monitoring and management for smart city applications.
 
-To achieve this, the project leverages open-source AI models and XR technologies:
-- **LLM-Based AI Agents**: Advanced language models facilitate intelligent and natural interaction with building systems.
-- **Extended Reality (XR) Integration**: Unity 3D is used to create immersive applications, including real-time building visualization and BIM model manipulation.
-- **AI-Powered Voice Interaction**: Open-source Text-to-Speech (TTS) and Speech-to-Text (STT) models enable natural language communication for building system control.
-- **Vision-Language Models**: Integration of the LLaVA vision language model provides image understanding capabilities, allowing the AI to interpret and respond to visual data.
 
 <img src="/fig1.png" style="float: left; margin-right: 20px; max-width: 200px;">
 ### AI Voice Chat and Image Understanding
