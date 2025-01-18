@@ -9,11 +9,20 @@ This project focuses on developing LLM-based AI agents and extended reality (XR)
 ## Video Demo
 
 
-[![Watch the demo video 1](https://img.youtube.com/vi/2esRfU4-7II/0.jpg)](https://www.youtube.com/watch?v=2esRfU4-7II)  
-*Click on the image to view the video.*
-
-[![Watch the demo video 2](https://img.youtube.com/vi/-Nxg_IkAl_c/0.jpg)](https://www.youtube.com/watch?v=-Nxg_IkAl_c)  
-*Click on the image to view the video.*
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="text-align: center;">
+    <a href="https://www.youtube.com/watch?v=2esRfU4-7II" target="_blank">
+      <img src="https://img.youtube.com/vi/2esRfU4-7II/0.jpg" alt="Demo Video 1" style="width: 300px;">
+    </a>
+    <p>*Click on the image to view Demo Video 1.*</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://www.youtube.com/watch?v=-Nxg_IkAl_c" target="_blank">
+      <img src="https://img.youtube.com/vi/-Nxg_IkAl_c/0.jpg" alt="Demo Video 2" style="width: 300px;">
+    </a>
+    <p>*Click on the image to view Demo Video 2.*</p>
+  </div>
+</div>
 
 ### Key Features
 
