@@ -1,5 +1,8 @@
 # Multimodal AI Assistant and Extended Reality (XR) Applications
-## Summary
+
+## Project Overview
+
+This project focuses on developing LLM-based AI agents and extended reality (XR) applications to enhance smart building control. Leveraging open-source models and Unity 3D, the project integrates the LLaVA vision language model, as well as open-source Text-to-Speech (TTS) and Speech-to-Text (STT) models. The application is designed for the Microsoft HoloLens 2, featuring AI-powered voice chat and image understanding capabilities.
 <img src="/fig1.png" style="float: left; margin-right: 20px; max-width: 200px;">
 ### AI Voice Chat and Image Understanding
 
@@ -12,13 +15,6 @@
 [![Watch the demo video 2](https://img.youtube.com/vi/-Nxg_IkAl_c/0.jpg)](https://www.youtube.com/watch?v=-Nxg_IkAl_c)  
 *Click on the image to view the video.*
 
-## Project Overview
-
-This project focuses on developing LLM-based AI agents and extended reality (XR) applications to enhance smart building control. Leveraging open-source models and Unity 3D, the project integrates the LLaVA vision language model, as well as open-source Text-to-Speech (TTS) and Speech-to-Text (STT) models. The application is designed for the Microsoft HoloLens 2, featuring AI-powered voice chat and image understanding capabilities.
-
-## Manuscript
-Under preparation...
-
 ### Key Features
 
 - **LLM-Based AI Agents:** Utilizes advanced language models for intelligent interaction and control.
@@ -26,21 +22,20 @@ Under preparation...
 - **AI Voice Chat:** Enables natural language communication with the smart building system.
 - **Image Understanding:** Incorporates vision language models for understanding and interpreting visual data.
 
-## Getting Started
-
 ### Requirements
-
-- Microsoft HoloLens 2
+- Open-source Vision language model and Large Language Model (e.g., MiniCPM V, LLaMA 3)
+- Generative AI inference tool. llama.cpp
 - Unity 3D
-- LLaVA vision language model
-- Open-source Text-to-Speech (TTS) and Speech-to-Text (STT) models
+- Microsoft Hololen 2
+- Python 3.10
+- Open-source Text-to-Speech (TTS) model, Whisper
+- Open-source Speech-to-Text (STT) model, Piper
 
-## Contributing
 
-Contributions are welcome! Please read the `CONTRIBUTING.md` file for details on how to contribute to this project.
+## Detailed setup guide
+Coming soon.....
 
 ## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 
