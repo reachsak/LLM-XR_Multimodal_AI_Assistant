@@ -45,10 +45,45 @@ This project explores the integration of Vision Language Model (VLM), Large Lang
 - Open-source Speech-to-Text (STT) model, Piper
 
 
-## Detailed setup guide
-Coming soon.....
 
-## License
-This project is licensed under the MIT License.
+## 🛠️ Detailed Setup Guide
+
+### Step 1: Unity XR Setup
+
+Install and open **Unity 3D**. Use the provided `Assets` folder in the `Unity 3D` project directory of this repository.  
+This setup is designed for XR devices such as the **Microsoft HoloLens 2** using **MRTK (Mixed Reality Toolkit)**.
+
+---
+
+### Step 2: LLM and VLM Server Setup
+
+You need to set up the **LLM and Vision Language Model server** on a host machine (e.g., a MacBook Pro):
+
+- **LLaMA 3**: Used for processing **user voice queries** received from HoloLens 2.
+- **MiniCPM 2.6**: Used for processing **images and video** sent from the HoloLens device.
+
+Refer to the official guide for setting up MiniCPM V server:  
+👉 https://github.com/OpenBMB/MiniCPM-o
+
+---
+
+### Step 3: Speech-to-Text and Text-to-Speech Configuration
+
+Configure models to enable seamless voice interaction:
+
+- **Speech-to-Text (STT)**: Converts spoken input from HoloLens 2 into text using **Whisper**.
+- **Text-to-Speech (TTS)**: Converts LLaMA 3 responses into audio using **Piper**.
+
+These models run on the same server as the LLM and allow users to communicate naturally with the AI assistant.
+
+---
+
+### Step 4: Create Secure HoloLens-Server Communication
+
+This tutorial uses **zrok** to create a secure HTTPS tunnel between the HoloLens 2 and the AI server.
+
+> This allows real-time data (video, voice, text) to be exchanged securely and remotely.
+
+---
 
 
